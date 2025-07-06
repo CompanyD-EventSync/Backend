@@ -1,4 +1,4 @@
-package com.eventsync.Event.Sync.repository;
+package com.eventsync.event.sync.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.JpaSpecificationExecutor;
