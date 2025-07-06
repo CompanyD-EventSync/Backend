@@ -1,9 +1,9 @@
-package com.eventsync.Event.Sync.entity;
+package com.eventsync.event.sync.entity;
 
 import java.math.BigDecimal;
 import java.time.LocalDateTime;
 
-import com.eventsync.Event.Sync.enums.BookingStatus;
+import com.eventsync.event.sync.enums.BookingStatus;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
