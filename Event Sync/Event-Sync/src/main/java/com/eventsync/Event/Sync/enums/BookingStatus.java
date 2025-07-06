@@ -1,5 +1,6 @@
-package com.eventsync.Event.Sync.enums;
+package com.eventsync.event.sync.enums;
 
-public class BookingStatus {
+public enum BookingStatus {
     
+    PENDING, CONFIRMED, CANCELLED
 }
