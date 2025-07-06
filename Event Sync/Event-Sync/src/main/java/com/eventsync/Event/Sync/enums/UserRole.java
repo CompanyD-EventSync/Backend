@@ -1,5 +1,7 @@
-package com.eventsync.Event.Sync.enums;
+package com.eventsync.event.sync.enums;
 
-public class UserRole {
+public enum UserRole {
+
+    ADMIN,USER
     
 }
