@@ -15,7 +15,7 @@ import lombok.Data;
 @Data
 @Builder
 public class AuthUser implements UserDetails {
-    private UserDto user;
+    private User user;
 
     @Override
     public Collection<? extends GrantedAuthority> getAuthorities() {
