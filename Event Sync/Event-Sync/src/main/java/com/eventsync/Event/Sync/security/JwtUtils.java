@@ -1,4 +1,4 @@
-package com.eventsync.Event.Sync.security;
+package com.eventsync.event.sync.security;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
