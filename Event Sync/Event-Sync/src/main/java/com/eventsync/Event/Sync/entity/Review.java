@@ -1,4 +1,4 @@
-package com.eventsync.Event.Sync.entity;
+package com.eventsync.event.sync.entity;
 
 import java.time.LocalDateTime;
 
