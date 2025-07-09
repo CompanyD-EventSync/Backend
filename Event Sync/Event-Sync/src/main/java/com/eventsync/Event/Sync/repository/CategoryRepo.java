@@ -1,5 +1,10 @@
-package com.eventsync.Event.Sync.repository;
+package com.eventsync.event.sync.repository;
 
-public class CategoryRepo {
-    
+import org.springframework.data.jpa.repository.JpaRepository;
+import com.eventsync.event.sync.entity.Category;
+
+public interface CategoryRepo extends JpaRepository<Category, Long> {
+
+
+
 }
